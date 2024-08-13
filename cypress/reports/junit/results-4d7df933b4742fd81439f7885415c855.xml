@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="64.080" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2024-08-01T23:32:48" tests="0" file="cypress\e2e\index.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Automação de Teste - Central de Ajuda Getnet" timestamp="2024-08-01T23:32:48" tests="2" time="64.070" failures="0">
+    <testcase name="Automação de Teste - Central de Ajuda Getnet Buscar por dúvida específica" time="15.223" classname="Buscar por dúvida específica">
+    </testcase>
+    <testcase name="Automação de Teste - Central de Ajuda Getnet Validar a modal da dúvida pesquisada" time="12.321" classname="Validar a modal da dúvida pesquisada">
+    </testcase>
+  </testsuite>
+</testsuites>

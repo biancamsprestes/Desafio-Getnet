@@ -1,0 +1,14 @@
+{
+    "title": "Tokenization Response Schema",
+    "type": "object",
+    "required": ["number_token", "customer_id"],
+    "properties": {
+      "number_token": {
+        "type": "string"
+      },
+      "customer_id": {
+        "type": "string"
+      }
+    }
+  }
+  
